@@ -5,12 +5,12 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+<i>Am Trying to Finding Movies. Movie Uploaded ആണെങ്കിൽ തീർച്ചയായും തരുന്നത് ആയിരിക്കും....
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+നിങ്ങൾക്ക് എന്നെ ഒന്നും ചെയ്യാൻ കഴിയില്ല ഞാൻ @parkboyschat Member ആണ് 🔥🔥😝
 
 For More Details Click Help Button Below..
-@CrazyBotsz
+@parkboyschat
 </i>"""    
     
     HELP_TEXT = """
@@ -43,12 +43,11 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@CrazyBotsz
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/ParkBoiBotz">BOSCO_🄿🄱</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
